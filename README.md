@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my work across blockchain, backend, and AI engineering.
 
-Live site: pranita18.netlify.app
+**🔗 Live site:**: [pranita18.netlify.app](https://pranita18.netlify.app/)
 
 ## About
 
